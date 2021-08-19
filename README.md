@@ -1,6 +1,6 @@
 # removestar
 
-[![Build Status](https://travis-ci.com/asmeurer/removestar.svg?branch=master)](https://travis-ci.com/asmeurer/removestar)
+[![Build Status](https://github.com/h4l/removestar/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/h4l/removestar/actions?query=branch:master)
 
 Tool to automatically replace `import *` imports in Python files with explicit imports
 
